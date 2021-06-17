@@ -1,0 +1,28 @@
+body{
+	font-family: 'Yusei Magic', sans-serif !important;
+/*	background-color: black !important; */
+	color: /*#7D00FA  #006CFA */ white   !important;
+	background-image: url(imgs/fondo.jpg);
+	background-size: 100%;
+    filter: drop-shadow(2px 4px 6px black);
+}
+
+.fotito{
+	margin: 0.3em !important; 
+	width: 45%;
+	/*height: 100% !important;
+	 filter: drop-shadow(2px 4px 6px black);*/
+	border-radius: 50%;
+}
+
+h1{
+	padding: 5px;
+	text-align: center;
+}
+
+footer{
+	background-color: white  ;
+		color: black;
+}
+hr{ background-color: white;
+}
