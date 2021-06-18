@@ -1,8 +1,8 @@
 body{
 	font-family: 'Yusei Magic', sans-serif !important;
-/*	background-color: black !important; */
+	background-color: #57414e  !important; 
 	color: /*#7D00FA  #006CFA */ white   !important;
-	background-image: url(imgs/fondo.jpg);
+/*	background-image: url(imgs/fondo.jpg);*/
 	background-size: 100%;
     filter: drop-shadow(2px 4px 6px black);
 }
